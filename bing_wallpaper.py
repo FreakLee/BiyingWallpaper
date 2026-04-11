@@ -4,10 +4,17 @@
 import json
 import os
 import re
+import ssl
 import urllib.request
 
-BING_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1620441890644&pid=hp"
-BING_BASE = "https://cn.bing.com"
+try:
+    import certifi
+    SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
+except ImportError:
+    SSL_CONTEXT = None
+
+BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1620441890644&pid=hp"
+BING_BASE = "https://www.bing.com"
 README_PATH = "README.md"
 WALLPAPER_PATH = "bing-wallpaper.md"
 
@@ -17,13 +24,12 @@ def fetch_wallpaper():
     req = urllib.request.Request(BING_API, headers={
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     })
-    with urllib.request.urlopen(req) as resp:
+    with urllib.request.urlopen(req, context=SSL_CONTEXT) as resp:
         data = json.loads(resp.read().decode("utf-8"))
 
     image = data["images"][0]
     url = BING_BASE + image["url"].split("&")[0]
-    # Use startdate instead of enddate to fix the date-ahead-by-one-day bug
-    date_str = image["startdate"]
+    date_str = image["enddate"]
     date = f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}"
     desc = image["copyright"]
 
