@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-04-15 | [Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)](https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_1920x1080.jpg)
 2026-04-14 | [Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)](https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_1920x1080.jpg)
 2026-04-13 | [City lights streak below, taken from the International Space Station (© NASA)](https://www.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_1920x1080.jpg)
 2026-04-12 | [Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_1920x1080.jpg)
