@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-04-20 | [Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)](https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_1920x1080.jpg)
 2026-04-19 | [Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)](https://www.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_1920x1080.jpg)
 2026-04-18 | [Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_1920x1080.jpg)
 2026-04-17 | [Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_1920x1080.jpg)
