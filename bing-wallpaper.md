@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-06-03 | [Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](https://www.bing.com/th?id=OHR.Qinghai_EN-US8807254633_1920x1080.jpg)
 2026-06-02 | [Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)](https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_1920x1080.jpg)
 2026-06-01 | [Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)](https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_1920x1080.jpg)
 2026-05-31 | [Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)](https://www.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_1920x1080.jpg)
