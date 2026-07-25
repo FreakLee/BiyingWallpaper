@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-07-25 | [Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_1920x1080.jpg)
 2026-07-24 | [Pink dahlia flower (© Harald Biebel/Getty Images)](https://www.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_1920x1080.jpg)
 2026-07-23 | [Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)](https://www.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_1920x1080.jpg)
 2026-07-22 | [Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](https://www.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_1920x1080.jpg)
