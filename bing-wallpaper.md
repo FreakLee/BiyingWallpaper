@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-08-04 | [Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)](https://www.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_1920x1080.jpg)
 2026-08-03 | [Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_1920x1080.jpg)
 2026-08-02 | [A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)](https://www.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_1920x1080.jpg)
 2026-08-01 | [Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_1920x1080.jpg)
