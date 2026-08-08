@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-08-08 | [Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)](https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_1920x1080.jpg)
 2026-08-07 | [Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)](https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_1920x1080.jpg)
 2026-08-06 | [Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)](https://www.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_1920x1080.jpg)
 2026-08-05 | [Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)](https://www.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_1920x1080.jpg)
