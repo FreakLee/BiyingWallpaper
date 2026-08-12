@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-08-12 | [Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)](https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_1920x1080.jpg)
 2026-08-11 | [Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](https://www.bing.com/th?id=OHR.SandPath_EN-US3759872156_1920x1080.jpg)
 2026-08-10 | [Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_1920x1080.jpg)
 2026-08-09 | [Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_1920x1080.jpg)
