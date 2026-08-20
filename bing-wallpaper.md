@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-08-20 | [NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)](https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_1920x1080.jpg)
 2026-08-19 | [Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)](https://www.bing.com/th?id=OHR.Palmanova_EN-US0340289339_1920x1080.jpg)
 2026-08-18 | [Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_1920x1080.jpg)
 2026-08-17 | [Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)](https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_1920x1080.jpg)
