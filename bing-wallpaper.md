@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-08-30 | [Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_1920x1080.jpg)
 2026-08-29 | [Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_1920x1080.jpg)
 2026-08-27 | [Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_1920x1080.jpg)
 2026-08-26 | [Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_1920x1080.jpg)
