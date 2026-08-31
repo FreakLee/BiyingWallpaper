@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-08-31 | [Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)](https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_1920x1080.jpg)
 2026-08-30 | [Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_1920x1080.jpg)
 2026-08-29 | [Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_1920x1080.jpg)
 2026-08-27 | [Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_1920x1080.jpg)
