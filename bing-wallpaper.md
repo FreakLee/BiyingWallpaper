@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-09-28 | [Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_1920x1080.jpg)
 2026-09-27 | [Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_1920x1080.jpg)
 2026-09-26 | [Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)](https://www.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_1920x1080.jpg)
 2026-09-25 | [Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](https://www.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_1920x1080.jpg)
