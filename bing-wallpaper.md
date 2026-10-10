@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-10-10 | [View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_1920x1080.jpg)
 2026-10-09 | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://www.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_1920x1080.jpg)
 2026-10-08 | [Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](https://www.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_1920x1080.jpg)
 2026-10-07 | [Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_1920x1080.jpg)
