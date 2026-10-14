@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-10-14 | [Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_1920x1080.jpg)
 2026-10-13 | [White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)](https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_1920x1080.jpg)
 2026-10-12 | [Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)](https://www.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_1920x1080.jpg)
 2026-10-11 | [Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_1920x1080.jpg)
