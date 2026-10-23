@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-10-23 | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_1920x1080.jpg)
 2026-10-22 | [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_1920x1080.jpg)
 2026-10-21 | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_1920x1080.jpg)
 2026-10-20 | [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_1920x1080.jpg)
