@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-10-26 | [Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1920x1080.jpg)
 2026-10-25 | [Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_1920x1080.jpg)
 2026-10-24 | [Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_1920x1080.jpg)
 2026-10-23 | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_1920x1080.jpg)
