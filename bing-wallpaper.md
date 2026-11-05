@@ -1,5 +1,6 @@
 ## Bing Wallpaper
 
+2026-11-05 | [People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_1920x1080.jpg)
 2026-11-04 | [Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_1920x1080.jpg)
 2026-11-03 | [Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_1920x1080.jpg)
 2026-11-02 | [Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_1920x1080.jpg)
